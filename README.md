@@ -1,6 +1,6 @@
 ### Hello, nice to meet you! Welcome to my profile. 😎
 
-<!--
+
 ** 🚀 Data Engineer / Dev - Azure
 
 ##### Principais Habilidades / Ferramentas:
@@ -20,4 +20,4 @@
 - Conteúdo sobre BigData: <link do repositorio> 
  
 
--->
+
