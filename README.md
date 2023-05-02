@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hello, nice to meet you! Welcome to my profile. 😎
 
 <!--
-**renandib/renandib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+** 🚀 Data Engineer / Dev - Azure
 
-Here are some ideas to get you started:
+##### Principais Habilidades / Ferramentas:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+** 👷 Data Engineer: Hadoop,(Hive, Spark (Pyspark), Sqoop, Hbase, MongoDB, Kafka, Elastic, Redis) , SQL Server, MYSQL, Power Bi , Databricks e Synapse Analytics.
+
+** 🤓 Dev: Azure Devops , Azure Repos , Azure Data Factory , Power Automate , Azure functions , IOT HUB , Docker , Kubernets , CI/CD , KeyVaults 
+
+** 📢 Linguagens: Python , Java , Javascript , C#.
+
+* Possuo um canal no youtube, onde realizo pequenos tutoriais para ensinar e propagar o conhecimento das principais ferramentas de dados.
+* Canal youtube: <https://www.youtube.com/channel/UC1Glcwn6I2OZoQEUulTG_0A.> 
+
+- Certificados como Data Engineer: <link do repositorio>
+- Certificados como Dev: <link Do repositorio>
+
+- Conteúdo sobre BigData: <link do repositorio> 
+ 
+
 -->
